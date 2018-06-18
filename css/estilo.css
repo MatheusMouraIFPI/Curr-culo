@@ -36,6 +36,9 @@ main{
 
   
 }
+.txt-centro{
+    text-align: center;
+}
 
 section{
     background:#ddd88e;
